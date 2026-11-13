@@ -1,9 +1,9 @@
 {
   "android": {
-    "versionName": "1.0.3",
-    "versionCode": 4,
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.3.apk",
-    "notes": "Scan finds Chromecast with Google TV. Input button on LG opens a source picker.",
+    "versionName": "1.0.4",
+    "versionCode": 5,
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.4.apk",
+    "notes": "LG Input button opens the TV's input picker if no input list is returned.",
     "force": false,
     "minVersionCode": 0
   }
