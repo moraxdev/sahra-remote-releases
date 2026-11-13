@@ -1,0 +1,10 @@
+{
+  "android": {
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.0.apk",
+    "notes": "First release: Google TV / Chromecast and LG webOS remote with auto-detect.",
+    "force": false,
+    "minVersionCode": 0
+  }
+}
