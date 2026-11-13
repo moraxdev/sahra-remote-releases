@@ -1,9 +1,9 @@
 {
   "android": {
-    "versionName": "1.0.2",
-    "versionCode": 3,
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.2.apk",
-    "notes": "Scan now finds Chromecast with Google TV.",
+    "versionName": "1.0.3",
+    "versionCode": 4,
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.3.apk",
+    "notes": "Scan finds Chromecast with Google TV. Input button on LG opens a source picker.",
     "force": false,
     "minVersionCode": 0
   }
