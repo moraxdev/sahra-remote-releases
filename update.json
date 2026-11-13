@@ -1,9 +1,9 @@
 {
   "android": {
-    "versionName": "1.0.4",
-    "versionCode": 5,
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.0.4.apk",
-    "notes": "LG Input button opens the TV's input picker if no input list is returned.",
+    "versionName": "1.1.0",
+    "versionCode": 6,
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-remote-releases/main/android/SahraRemote-1.1.0.apk",
+    "notes": "Press and hold: arrows, volume and channels repeat; other buttons send a long press on Google TV.",
     "force": false,
     "minVersionCode": 0
   }
